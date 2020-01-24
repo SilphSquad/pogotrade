@@ -1,4 +1,9 @@
-# CS290-Server-Side-Examples
+# Pokemon Go Trade Website
 
-This sample application requires the database dump **bsg_db.sql** to be setup *before* you can run the application. This is different from the database dump you used in other weeks of the CS340 class.
-# cs340_1
+This website was co-developed by diedrichj for OSU CS340 (Database class).  Utilizes MariaDB and Node.js to create a website to help facilitate trades between Pokemon Go players.  
+
+Further Development in Progress:
+- Connect with Discord
+- Combine offer and accept page 
+- Improve search functions for shiny, regional, and special Pokemon
+- User management page to manage multiple Pokemon Go accounts
